@@ -1,7 +1,7 @@
 [alias]
 	co  = checkout       # Checkout a branch
 	cob = checkout -b    # Checkout a new branch
-  f   = fetch          # Fetch from a repository 
+    f   = fetch          # Fetch from a repository 
 	fp  = fetch -p       # Fetch from a repository and prune any remote-tracking references that no longer exist on the remote.
 	c   = commit         # Commit you changes
 	p   = push           # Push you changes to a remote
